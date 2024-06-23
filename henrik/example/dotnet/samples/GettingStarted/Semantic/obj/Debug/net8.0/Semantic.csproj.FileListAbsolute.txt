@@ -1,0 +1,15 @@
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\bin\Debug\net8.0\Semantic.exe
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\bin\Debug\net8.0\Semantic.deps.json
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\bin\Debug\net8.0\Semantic.runtimeconfig.json
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\bin\Debug\net8.0\Semantic.dll
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\bin\Debug\net8.0\Semantic.pdb
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\Semantic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\Semantic.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\Semantic.AssemblyInfo.cs
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\Semantic.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\Semantic.sourcelink.json
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\Semantic.dll
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\refint\Semantic.dll
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\Semantic.pdb
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\Semantic.genruntimeconfig.cache
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\Semantic\obj\Debug\net8.0\ref\Semantic.dll

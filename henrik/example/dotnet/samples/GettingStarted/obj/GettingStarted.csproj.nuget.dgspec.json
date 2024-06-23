@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\henri\\Desktop\\NTNU\\4.Året\\Annet\\Prosjekter\\semantic-kernel\\henrik\\example\\dotnet\\samples\\GettingStarted\\GettingStarted.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\henri\\Desktop\\NTNU\\4.Året\\Annet\\Prosjekter\\semantic-kernel\\henrik\\example\\dotnet\\samples\\GettingStarted\\GettingStarted.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henri\\Desktop\\NTNU\\4.Året\\Annet\\Prosjekter\\semantic-kernel\\henrik\\example\\dotnet\\samples\\GettingStarted\\GettingStarted.csproj",
+        "projectName": "GettingStarted",
+        "projectPath": "C:\\Users\\henri\\Desktop\\NTNU\\4.Året\\Annet\\Prosjekter\\semantic-kernel\\henrik\\example\\dotnet\\samples\\GettingStarted\\GettingStarted.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henri\\Desktop\\NTNU\\4.Året\\Annet\\Prosjekter\\semantic-kernel\\henrik\\example\\dotnet\\samples\\GettingStarted\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.DeepDev.TokenizerLib": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.ML.Tokenizers": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "SharpToken": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "System.Numerics.Tensors": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "xRetry": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "xunit.abstractions": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\henri\\AppData\\Local\\Microsoft\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

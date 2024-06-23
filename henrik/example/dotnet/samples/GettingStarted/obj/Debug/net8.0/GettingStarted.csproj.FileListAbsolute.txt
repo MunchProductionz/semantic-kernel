@@ -1,0 +1,6 @@
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\obj\Debug\net8.0\GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\obj\Debug\net8.0\GettingStarted.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\obj\Debug\net8.0\GettingStarted.AssemblyInfo.cs
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\obj\Debug\net8.0\GettingStarted.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\obj\Debug\net8.0\GettingStarted.sourcelink.json
+C:\Users\henri\Desktop\NTNU\4.Året\Annet\Prosjekter\semantic-kernel\henrik\example\dotnet\samples\GettingStarted\obj\Debug\net8.0\GettingStarted.csproj.AssemblyReference.cache
