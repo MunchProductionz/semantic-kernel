@@ -1,0 +1,7 @@
+Create a short advertisement based on the information:
+
+[INFORMATION]
+{{$input}}
+[END INFORMATION]
+
+Advert Output:
