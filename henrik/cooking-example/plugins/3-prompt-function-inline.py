@@ -7,6 +7,7 @@ from semantic_kernel.functions import KernelArguments
 from semantic_kernel.prompt_template import InputVariable, PromptTemplateConfig
 load_dotenv()
 
+# Definitions
 prompt = """{{$input}}
 Summarize the content above.
 """
@@ -39,10 +40,12 @@ prompt_template_config = PromptTemplateConfig(
     execution_settings=execution_settings,
 )
 
-# Add the function
+# Add the function - This is not using a specified file such as "Cooking -> RecipeGenerator"
 summarize = kernel.add_function(
+    prompt=prompt,
     function_name="summarizeFunc",
     plugin_name="summarizePlugin",
+    description="Summarize the content",
     prompt_template_config=prompt_template_config,
 )
 
