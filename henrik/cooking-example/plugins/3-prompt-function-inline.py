@@ -10,7 +10,7 @@ load_dotenv()
 prompt = """{{$input}}
 Summarize the content above.
 """
-ai_model_id = "gpt-3.5-turbo"
+ai_model_id = os.getenv("OPENAI_CHAT_MODEL_ID")
 
 # Setup
 kernel = sk.Kernel()

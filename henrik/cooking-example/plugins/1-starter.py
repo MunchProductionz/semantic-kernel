@@ -11,10 +11,11 @@ kernel = sk.Kernel()
 api_key = os.getenv("OPENAI_API_KEY")
 prompt = "Chicken Adobo Filipino Style"
 plugins_directory = "../plugins"
+ai_model_id = os.getenv("OPENAI_CHAT_MODEL_ID")
 
 # OpenAI Service
 kernel.add_service(OpenAIChatCompletion(
-    ai_model_id="gpt-3.5-turbo",
+    ai_model_id=ai_model_id,
     service_id="default",
     api_key=api_key
     ))
