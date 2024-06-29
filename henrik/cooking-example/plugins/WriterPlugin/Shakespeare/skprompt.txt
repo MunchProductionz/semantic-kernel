@@ -1,0 +1,3 @@
+{{$input}}
+
+Rewrite the above in the style of Shakespeare.
