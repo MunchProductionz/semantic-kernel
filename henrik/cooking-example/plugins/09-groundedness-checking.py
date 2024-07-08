@@ -2,12 +2,8 @@ import semantic_kernel as sk
 import os
 import sys
 import asyncio
-import random
 from dotenv import load_dotenv
-from typing import Annotated
-from semantic_kernel.connectors.ai.open_ai import OpenAIChatCompletion, OpenAIChatPromptExecutionSettings
-from semantic_kernel.prompt_template import InputVariable, PromptTemplateConfig
-from semantic_kernel.functions import kernel_function
+from semantic_kernel.connectors.ai.open_ai import OpenAIChatCompletion
 load_dotenv()
 
 # Get paths
